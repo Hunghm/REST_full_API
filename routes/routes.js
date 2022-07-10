@@ -1,5 +1,7 @@
 const express = require('express');
 const Model = require('../model/model');
+const listTopic = require('../listTopic.json')
+const computersWord = require('../computerWord.json')
 
 const router = express.Router()
 
@@ -27,6 +29,24 @@ router.get('/getAll', async (req, res) => {
     try {
         const data = await Model.find();
         res.json(data)
+    } catch (error) {
+        res.status(500).json({message: error.message})
+    }
+})
+
+//Get topic 
+router.get('/getTopic', async (req, res) => {
+    try {
+        res.json(listTopic)
+    } catch (error) {
+        res.status(500).json({message: error.message})
+    }
+})
+
+//Get topic Computers
+router.get('/getTopic/computers', async (req, res) => {
+    try {
+        res.json(computersWord)
     } catch (error) {
         res.status(500).json({message: error.message})
     }

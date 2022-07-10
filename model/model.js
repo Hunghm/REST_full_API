@@ -17,7 +17,7 @@ const dataSchema = new mongoose.Schema({
         required: true,
         type: String
     },
-    path: {
+    type: {
         required: true,
         type: String
     },

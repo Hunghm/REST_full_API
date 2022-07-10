@@ -1,0 +1,100 @@
+{
+    "word": [
+        {
+            "id" : 1,
+            "word": "Access",
+            "mean": "sự truy cập, quyền sử dụng",
+            "imageExample": "https://tienganhmoingay.com/static/Vocabulary/images/word_images/access.jpg",
+            "example": "The only access to the village is by boat.",
+            "type": "noun"
+        },
+        {
+            "id" : 2,
+            "word": "Allocate",
+            "mean": "phân bổ",
+            "imageExample": "https://tienganhmoingay.com/static/Vocabulary/images/word_images/allocate.jpg",
+            "example": "The government is allocating £10 million for health education.",
+            "type": "verb"
+        },
+        {
+            "id" : 3,
+            "word": "Compatible",
+            "mean": "tương thích, thích hợp",
+            "imageExample": "https://tienganhmoingay.com/static/Vocabulary/images/word_images/compatible.jpg",
+            "example": "It was when we started living together that we found we just weren't compatible.",
+            "type": "adjective"
+        },
+        {
+            "id" : 4,
+            "word": "Delete",
+            "mean": "xóa",
+            "imageExample": "https://tienganhmoingay.com/static/Vocabulary/images/word_images/delete.png",
+            "example": "They insisted that all expletives be deleted from the article.",
+            "type": "verb "
+        },
+        {
+            "id" : 5,
+            "word": "Display",
+            "mean": "phô bày, trưng bày",
+            "imageExample": "https://tienganhmoingay.com/static/Vocabulary/images/word_images/display.jpg",
+            "example": "There were photographs of all her children proudly displayed on the mantelpiece.",
+            "type": "verb"
+        },
+        {
+            "id" : 6,
+            "word": "Duplicate",
+            "mean": "sao chép",
+            "imageExample": "https://tienganhmoingay.com/static/Vocabulary/images/word_images/duplicate.jpg",
+            "example": "The documents had been duplicated.",
+            "type": "verb"
+        },
+        {
+            "id" : 7,
+            "word": "Fail",
+            "mean": "thất bại",
+            "imageExample": "https://tienganhmoingay.com/static/Vocabulary/images/word_images/fail.jpg",
+            "example": "She moved to London in the hope of finding work as a model, but failed.",
+            "type": "verb"
+        },
+        {
+            "id" : 8,
+            "word": "Figure-out",
+            "mean": "hiểu được, biết được",
+            "imageExample": "https://tienganhmoingay.com/static/Vocabulary/images/word_images/figure-out.png",
+            "example": "figure out how/why/what, etc. If they know the cause of the problem, they might be able to figure out how to prevent it happening again.",
+            "type": "phrasal verb"
+        },
+        {
+            "id" : 9,
+            "word": "Ignore",
+            "mean": "phớt lờ",
+            "imageExample": "https://tienganhmoingay.com/static/Vocabulary/images/word_images/ignore.jpg",
+            "example": "She can be really irritating but I try to ignore her.",
+            "type": "verb"
+        },
+        {
+            "id" : 10,
+            "word": "Search",
+            "mean": "tìm kiếm",
+            "imageExample": "https://tienganhmoingay.com/static/Vocabulary/images/word_images/search.jpg",
+            "example": "The police searched the woods for the missing boy.",
+            "type": "verb"
+        },
+        {
+            "id" : 11,
+            "word": "Shut-down",
+            "mean": "tắt, đóng cửa, ngừng hoạt động",
+            "imageExample": "https://tienganhmoingay.com/static/Vocabulary/images/word_images/shut-down.jpg",
+            "example": "The company plans to shut down four factories and cut 10,000 jobs.",
+            "type": "phrasal verb "
+        },
+        {
+            "id" : 12,
+            "word": "Warn",
+            "mean": "cảnh báo",
+            "imageExample": "https://tienganhmoingay.com/static/Vocabulary/images/word_images/warn.jpg",
+            "example": "We were warned not to eat the fish which might upset our stomachs.",
+            "type": "verb "
+        }
+    ]
+}
